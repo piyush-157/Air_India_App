@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638636375138",
+    "project_id": "air-india-app-4103f",
+    "storage_bucket": "air-india-app-4103f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638636375138:android:dbeb327817f287f8fe253b",
+        "android_client_info": {
+          "package_name": "com.example.air_india_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638636375138-pd4t2ljrhj7ajpna2tes98djmntp88jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOllMRthy5MXchdnByabESkIB1RKVIJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638636375138-pd4t2ljrhj7ajpna2tes98djmntp88jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
